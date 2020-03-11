@@ -2,7 +2,10 @@
 
 
 # Full Stack
-  > 全端
+  > 全端 = 前端 + 後端
+  
+- 前端（Front End） 
+- 後端（Back End）
 
 #### Source
 [全端開發者神話](https://www.ithome.com.tw/voice/97360)
