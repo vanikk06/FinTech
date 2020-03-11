@@ -27,6 +27,8 @@
 
 [AWS_什麼是 DevOps？](https://aws.amazon.com/tw/devops/what-is-devops/)
 
+[ALPHAcamp_DevOps 工程師](https://tw.alphacamp.co/blog/2018-07-20-18464#w-node-6ab77b8879a0-215075ab)
+
 [🌶](https://github.com/vanikk06/FinTech/tree/master/week_01#content)
 
 # KANO Model
