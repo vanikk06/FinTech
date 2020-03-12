@@ -3,7 +3,7 @@
 - [facebook](https://www.facebook.com/Union-FinTech-101521661481885/)
 
 # Content
-- [week_01](https://github.com/vanikk06/FinTech#week_01)
+- [week_01](https://github.com/vanikk06/FinTech/tree/master/class_notes#week_01)
 
 
 # week_01
