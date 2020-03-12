@@ -52,7 +52,7 @@ Server是存放寫好的程式碼，讓它們可以運作的地方，當使用�
 
 [UX/UI傻傻分不清楚？其實差很多！](https://gremlinworks.com.tw/ui-ux/ui-ux-comparison/)
 
-[🍅](https://github.com/vanikk06/FinTech/tree/master/week_01#content)
+[🍅](https://github.com/vanikk06/FinTech/tree/master/class_notes/week_01#content)
 
 # DevOps
 
@@ -66,14 +66,14 @@ Server是存放寫好的程式碼，讓它們可以運作的地方，當使用�
 
 [ALPHAcamp_DevOps 工程師](https://tw.alphacamp.co/blog/2018-07-20-18464#w-node-6ab77b8879a0-215075ab)
 
-[🌶](https://github.com/vanikk06/FinTech/tree/master/week_01#content)
+[🌶](https://github.com/vanikk06/FinTech/tree/master/class_notes/week_01#content)
 
 # KANO Model
 
 
-[🍆](https://github.com/vanikk06/FinTech/tree/master/week_01#content)
+[🍆](https://github.com/vanikk06/FinTech/tree/master/class_notes/week_01#content)
 
 # Google Sprint
 
 
-[🌽](https://github.com/vanikk06/FinTech/tree/master/week_01#content)
+[🌽](https://github.com/vanikk06/FinTech/tree/master/class_notes/week_01#content)
