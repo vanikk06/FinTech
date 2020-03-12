@@ -1,3 +1,7 @@
+# FinTech class notes
+- [class](https://pecu.github.io/FinTech/index.html)
+- [facebook](https://www.facebook.com/Union-FinTech-101521661481885/)
+
 # Content
 - [week_01](https://github.com/vanikk06/FinTech#week_01)
 
