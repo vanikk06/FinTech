@@ -62,14 +62,11 @@ Server是存放寫好的程式碼，讓它們可以運作的地方，當使用�
 [🍅](https://github.com/vanikk06/FinTech/tree/master/class_notes/week_01#content)
 
 # DevOps
+  > Development（開發） + Operations（營運維護）
 
 
 #### Source
-[iT邦幫忙_什麼是 DevOps？](https://ithelp.ithome.com.tw/articles/10184557)
-
 [什麼是 DevOps？](https://azure.microsoft.com/zh-tw/overview/what-is-devops/)
-
-[AWS_什麼是 DevOps？](https://aws.amazon.com/tw/devops/what-is-devops/)
 
 [ALPHAcamp_DevOps 工程師](https://tw.alphacamp.co/blog/2018-07-20-18464#w-node-6ab77b8879a0-215075ab)
 
