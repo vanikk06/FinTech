@@ -13,6 +13,7 @@ Server是存放寫好的程式碼，讓它們可以運作的地方，當使用�
   > 著重**畫面＆使用者的互動功能**
   
   - 使用之程式語言：
+    
     ![](https://github.com/vanikk06/FinTech/blob/master/class_notes/week_01/image/Snipaste_2020-03-15_21-11-53.png)
       - HTML：標籤語言（Markup Language），用來描述網站的架構、資訊
         > 網頁畫面的架構
