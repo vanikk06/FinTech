@@ -66,6 +66,19 @@ Server是存放寫好的程式碼，讓它們可以運作的地方，當使用�
 # DevOps
   > Development（開發） + Operations（營運維護）
 
+DevOps 可以說是「開發」、「測試」、「維運」三者的結合，主要目的是確保網站營運的可靠性和安全性，並同時兼顧軟體開發交付的效率（「開發」與「維運」容易產生的衝突）
+
+![](https://github.com/vanikk06/FinTech/blob/master/class_notes/week_01/image/Snipaste_2020-03-15_22-57-13.png)
+> - QA（Quality Assurance）：測試，是開發到維運的必要流程，也是需要與開發和維運緊密合作的重要角色，因此經常與 DevOps 放在一起討論
+
+- DevOps 目標：兼顧產品上限的**速度**與**品質**
+- DevOps 要領：CALMS
+  - Culture：文化，DevOps並非一種技能，而是跨團隊或跨技能的緊密合作文化
+    > 開發多去想維運面，維運多去想開發面
+  - Automation：自動化，是Dev和Ops合作的潤滑劑
+  - Lean/Learn：精實/學習，精實概念可以[精實軟體開發的七大原則解釋](https://ithelp.ithome.com.tw/articles/10184557)
+  - Measurement：測量，改變的依據，提示團隊如何做更正確的改善
+  - Sharing：分享，DevOps是一種文化，而分享是創造 DevOps文化的最好方法，也是增加團隊透明度的好方法 
 
 #### Source
 [什麼是 DevOps？](https://azure.microsoft.com/zh-tw/overview/what-is-devops/)
