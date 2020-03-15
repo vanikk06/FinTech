@@ -95,7 +95,7 @@ DevOps 可以說是「開發」、「測試」、「維運」三者的結合，�
 打破過去品質理論的線性思維，認為只要產品品質提升，顧客滿意度也會隨之提高的想法。\
 Kano model，以**滿意度**（顧客的主觀感受）和**功能**（產品的客觀機能）為兩條軸線，畫出二維平面。
 
-![](https://3.bp.blogspot.com/-GR0kgkO4RkY/VvUFo4_rGUI/AAAAAAACHA0/MUrM2Da_If0N91r0nbkcwOY3epDLFlCnA/s1024/)
+![](https://github.com/vanikk06/FinTech/blob/master/class_notes/week_01/image/Snipaste_2020-03-16_02-30-38.png)
 
 - 四個品質要素：
   - 無差異品質（indifference）：顧客不敏感、不重視的品質
