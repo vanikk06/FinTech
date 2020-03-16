@@ -140,8 +140,3 @@ Kano model，以**滿意度**（顧客的主觀感受）和**功能**（產品�
 [狩野模型｜經理人](https://www.managertoday.com.tw/glossary/view/192)
 
 [🍆](https://github.com/vanikk06/FinTech/tree/master/class_notes/week_01#content)
-
-# Google Sprint
-
-
-[🌽](https://github.com/vanikk06/FinTech/tree/master/class_notes/week_01#content)
